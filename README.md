@@ -6,7 +6,7 @@ This is my collection of essays on various topics. Each essay is organized by ca
 
 ### Technology
 - [The Colonization of the Internet by Big Tech](essays/technology/2024-05-19-internet-colonization-by-big-tech.md)
-- [The Advent of Large Language Models and the Quest for Real AI: A Comparative Analysis](essays/technology/The Advent of Large Language Models and the Quest for Real AI: A Comparative Analysis.md)
+- [The Advent of Large Language Models and the Quest for Real AI: A Comparative Analysis](essays/technology/The Future of Cryptocurrency and Blockchain Technology: Potential Applications and Dangers.md)
 
 ### Society
 - *Coming Soon*
