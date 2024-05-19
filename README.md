@@ -1,2 +1,23 @@
-# colonisation-of-the-Internet
-Examines how the internet has been colonized by big tech, emphasizing capitalism's role and the rise of subscription-based models. Explores digital monopolies, privacy concerns, and societal impacts to provoke discussion on internet governance and a fairer digital future.
+# Tunde's Essay Repository
+
+Welcome to my collection of essays on various topics. Each essay is organized by category for easy navigation.
+
+## Essays
+
+### Technology
+- [The Colonization of the Internet by Big Tech](essays/technology/2024-05-19-internet-colonization-by-big-tech.md)
+
+### Society
+- *Coming Soon*
+
+### Economics
+- *Coming Soon*
+
+### Privacy
+- *Coming Soon*
+
+## Images
+All images used in the essays are stored in the `images/` directory.
+
+## References
+Any additional resources or reference materials are stored in the `references/` directory.
