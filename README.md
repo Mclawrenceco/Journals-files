@@ -1,6 +1,6 @@
 # Tunde's Essay Repository
 
-Welcome to my collection of essays on various topics. Each essay is organized by category for easy navigation.
+This is my collection of essays on various topics. Each essay is organized by category for easy navigation.
 
 ## Essays
 
