@@ -1,4 +1,4 @@
-# Tunde's Essay Repository
+# Mclawrenceco's Essay Repository
 
 This is my collection of essays on various topics. Each essay is organized by category for easy navigation. It's a work in progress but I'm gonna be doing a lot of work on it these days. some feedback would be nice. I want to know your honest thoughts of this work.
 
