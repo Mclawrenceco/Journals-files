@@ -1,4 +1,4 @@
-# **Harmonies in Creativity: Exploring the Intersection of Music Theory and Creative Expression**
+# **Title:Harmonies in Creativity: Exploring the Intersection of Music Theory and Creative Expression**
 
 
 Music, with its ability to evoke emotions, transcend cultures, and speak a universal language, is not merely a product of spontaneous inspiration but a structured art form guided by principles of music theory. At its core, music theory provides a framework—a language—that musicians use to communicate and innovate. Yet, within this structured framework lies a vast landscape of creativity, where artists navigate between rules and freedom to compose melodies that resonate deeply with listeners.
