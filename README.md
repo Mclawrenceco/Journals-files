@@ -6,7 +6,7 @@ This is my collection of essays on various topics. Each essay is organized by ca
 
 ### Technology
 - [The Colonization of the Internet by Big Tech](essays/technology/2024-05-19-internet-colonization-by-big-tech.md)
-- [The Advent of Large Language Models and the Quest for Real AI: A Comparative Analysis](](https://github.com/Mclawrenceco/Journals-files/blob/398e877f8e1cb03017a756542965887ce88da321/essays/technology/The%20Future%20of%20Cryptocurrency%20and%20Blockchain%20Technology%3A%20Potential%20Applications%20and%20Dangers.md)
+- [The Advent of Large Language Models and the Quest for Real AI: A Comparative Analysis](https://github.com/Mclawrenceco/Journals-files/blob/398e877f8e1cb03017a756542965887ce88da321/essays/technology/The%20Future%20of%20Cryptocurrency%20and%20Blockchain%20Technology%3A%20Potential%20Applications%20and%20Dangers.md)
 
 ### Society
 - *Coming Soon*
