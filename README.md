@@ -9,6 +9,7 @@ This is my collection of essays on various topics. Each essay is organized by ca
 - [The Advent of Large Language Models and the Quest for Real AI: A Comparative Analysis](https://github.com/Mclawrenceco/Journals-files/blob/398e877f8e1cb03017a756542965887ce88da321/essays/technology/The%20Future%20of%20Cryptocurrency%20and%20Blockchain%20Technology%3A%20Potential%20Applications%20and%20Dangers.md)
 - [Smart Cities](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/technology/Smart%20Cities.md)
 - [The Future of Cryptocurrency and Blockchain Technology: Potential Applications and Dangers](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/technology/The%20Future%20of%20Cryptocurrency%20and%20Blockchain%20Technology%3A%20Potential%20Applications%20and%20Dangers.md)
+- [Open source and collaboration  in tech community](essays/technology/Open source and collaboration  in tech community.md)
 ### Society
 - *Coming Soon*
 
