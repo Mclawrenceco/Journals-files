@@ -15,7 +15,7 @@ This is my collection of essays on various topics. Each essay is organized by ca
 
 ### Economics
 - [The Unattainable Dream: Classism, Wealth Disparity, and the Economic Impact of Population Growth](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/Economics/classism.md)
-  -  [The Impact of Globalization on Developing Economies](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/Economics/The%20Impact%20of%20Globalization%20on%20Developing%20Economies.md)
+-  [The Impact of Globalization on Developing Economies](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/Economics/The%20Impact%20of%20Globalization%20on%20Developing%20Economies.md)
 
 ### Entertainment
 - [Reviewing the classic](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/entertainment/Reviewing%20the%20classic.md)
