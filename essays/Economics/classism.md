@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In an ideal world, everyone would have the opportunity to achieve financial prosperity. However, the reality of classism, wealth disparity, and the ever-increasing global population paints a different picture. This blog post explores why universal wealth remains an unattainable dream, delving into the systemic nature of classism, the role of population growth in economic stability, and the intricate dynamics that sustain the global economic divide.
+In an ideal world, everyone would have the opportunity to achieve financial prosperity. However, the reality of classism, wealth disparity, and the ever-increasing global population paints a different picture. Today we're looking at why universal wealth remains an unattainable dream, delving into the systemic nature of classism, the role of population growth in economic stability, and the intricate dynamics that sustain the global economic divide.
 
 ## Understanding Classism
 
