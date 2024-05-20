@@ -1,4 +1,4 @@
-#**A Review of Quentin Tarantino's "Reservoir Dogs"**
+# **A Review of Quentin Tarantino's "Reservoir Dogs"**
 
 Lately, I've been fond of watching old movies and I'd liketo like to talk about one I watched recently Quentin Tarantino's seminal work, "Reservoir Dogs."
 
