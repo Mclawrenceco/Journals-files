@@ -10,14 +10,14 @@ This is my collection of essays on various topics. Each essay is organized by ca
 - [Smart Cities](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/technology/Smart%20Cities.md)
 - [The Future of Cryptocurrency and Blockchain Technology: Potential Applications and Dangers](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/technology/The%20Future%20of%20Cryptocurrency%20and%20Blockchain%20Technology%3A%20Potential%20Applications%20and%20Dangers.md)
 - [Open source and collaboration  in tech community](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/technology/Open%20source%20and%20collaboration%20%20in%20tech%20community.md)
-### Society
-- *Coming Soon*
+### Creativity
+- [Harmonies in Creativity](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/creativity/Harmonies%20in%20Creativity.md)
 
 ### Economics
-- *Coming Soon*
+- [The Unattainable Dream: Classism, Wealth Disparity, and the Economic Impact of Population Growth](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/Economics/classism.md)
 
-### Privacy
-- *Coming Soon*
+### Entertainment
+- [Reviewing the classic](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/entertainment/Reviewing%20the%20classic.md)
 
 ## Images
 All images used in the essays are stored in the `images/` directory.
