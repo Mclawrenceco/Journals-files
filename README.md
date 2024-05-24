@@ -10,10 +10,9 @@ This is my collection of essays on various topics. Each essay is organized by ca
 - [Smart Cities](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/technology/Smart%20Cities.md)
 - [The Future of Cryptocurrency and Blockchain Technology: Potential Applications and Dangers](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/technology/The%20Future%20of%20Cryptocurrency%20and%20Blockchain%20Technology%3A%20Potential%20Applications%20and%20Dangers.md)
 - [Open source and collaboration  in tech community](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/technology/Open%20source%20and%20collaboration%20%20in%20tech%20community.md)
+- [The Rise of Remote Work and Its Technological Implications](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/technology/Remotework.md)
 ### Creativity
 - [Harmonies in Creativity](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/creativity/Harmonies%20in%20Creativity.md)
-- [The Rise of Remote Work and Its Technological Implications](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/technology/Remotework.md)
-
 ### Economics
 - [The Unattainable Dream: Classism, Wealth Disparity, and the Economic Impact of Population Growth](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/Economics/classism.md)
 -  [The Impact of Globalization on Developing Economies](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/Economics/The%20Impact%20of%20Globalization%20on%20Developing%20Economies.md)
