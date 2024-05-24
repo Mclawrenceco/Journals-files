@@ -12,6 +12,7 @@ This is my collection of essays on various topics. Each essay is organized by ca
 - [Open source and collaboration  in tech community](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/technology/Open%20source%20and%20collaboration%20%20in%20tech%20community.md)
 ### Creativity
 - [Harmonies in Creativity](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/creativity/Harmonies%20in%20Creativity.md)
+- [The Rise of Remote Work and Its Technological Implications](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/technology/Remotework.md)
 
 ### Economics
 - [The Unattainable Dream: Classism, Wealth Disparity, and the Economic Impact of Population Growth](https://github.com/Mclawrenceco/Journals-files/blob/main/essays/Economics/classism.md)
